@@ -1,4 +1,4 @@
-<img src="./bunner.gif"/>
+![banner](https://github.com/user-attachments/assets/939806da-34ca-4a61-a10e-399a6100017b)
 
 # Hi there 👋
 
