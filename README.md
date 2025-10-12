@@ -1,4 +1,4 @@
-<img src="dotstartech-banner-1.gif" />
+<img src="dotstartech-banner.gif" />
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/alexander-hoffmann-32537293" target="_blank">
