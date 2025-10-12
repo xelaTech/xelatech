@@ -1,5 +1,3 @@
-<img src="banner.gif" />
-
 <p align='center'>
 <a href="https://www.linkedin.com/in/alexander-hoffmann-32537293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
@@ -11,6 +9,8 @@
     <img src="https://img.shields.io/badge/Email-F06B66?style=for-the-badge&logo=mailgun&logoColor=white" />
 </a>
 </p>
+
+<img src="banner.gif" />
 
 # 👋 **Software Engineer** · **Maker** · **Entrepreneur**
 
