@@ -1,6 +1,7 @@
 # Hi there 👋
 
 **Software Engineer** · **Maker** · **Entrepreneur** working at [dotStar Technologies BV](https://github.com/dotstartech)
+
 Passionate about building simple yet robust and highly-available distributed systems.
 
 ---
