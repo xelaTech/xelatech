@@ -5,16 +5,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/dotstar.technologies/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="mailto:alexander.hoffmann@dotstar.tech" target="_blank">
     <img src="https://img.shields.io/badge/Email-F06B66?style=for-the-badge&logo=mailgun&logoColor=white" />
 </a>
 </p>
 
-# Hi there 👋
+# 👋 **Software Engineer** · **Maker** · **Entrepreneur**
 
-**Software Engineer** · **Maker** · **Entrepreneur** working at [dotStar Technologies BV](https://github.com/dotstartech)
+Working at [dotStar Technologies BV](https://github.com/dotstartech)
 
 Passionate about building simple yet robust and highly-available distributed systems.
 
