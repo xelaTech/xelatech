@@ -20,7 +20,9 @@ Passionate about building simple yet robust and highly-available distributed sys
 
 ---
 
-🔭 Currently working on [NFC Terminal](https://github.com/dotstartech/nfc-terminal-proto) — NFC terminal prototype based pn RPi CM4 with 4" LCD and NXP NFC hardware.
+🔭 Currently working o
+ - [Wall mounted 4 inch touch display panel with CM4 inside](https://github.com/dotstartech/wall-panel)
+ - [MQTT, SQL and web admin in one place ](https://github.com/dotstartech/mqBase)
 
 ### 🛠 My usual tech stack
 - **Backend**: Linux, C, Java, Go
