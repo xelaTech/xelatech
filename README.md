@@ -20,7 +20,7 @@ Passionate about building simple yet robust and highly-available distributed sys
 
 ---
 
-🔭 Currently working o
+🔭 Currently working on
  - [Wall mounted 4 inch touch display panel with CM4 inside](https://github.com/dotstartech/wall-panel)
  - [MQTT, SQL and web admin in one place ](https://github.com/dotstartech/mqBase)
 
