@@ -12,7 +12,7 @@
 </a>
 </p>
 
-# 👋 **Software Engineer** · **Maker** · **Entrepreneur**
+# 👋 **Engineer** · **Maker** · **Entrepreneur**
 
 Working at [dotStar Technologies BV](https://github.com/dotstartech)
 
