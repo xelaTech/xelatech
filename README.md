@@ -14,7 +14,7 @@
 
 # 👋 **Engineer** · **Maker** · **Entrepreneur**
 
-Working at [dotStar Technologies BV](https://github.com/dotstartech)
+Working at [dotStar Technologies BV](https://dotstartech.com/) [GitHub](https://github.com/dotstartech)
 
 Passionate about building simple yet robust and highly-available distributed systems.
 
